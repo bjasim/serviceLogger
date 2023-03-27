@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ServiceLogger", "ServiceLogger\ServiceLogger.pyproj", "{0E4840F3-9070-4A79-9BB0-19BE916192F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4840F3-9070-4A79-9BB0-19BE916192F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4840F3-9070-4A79-9BB0-19BE916192F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086181BD-9A3E-449F-A145-DFD54D5D5AE1}
+	EndGlobalSection
+EndGlobal
